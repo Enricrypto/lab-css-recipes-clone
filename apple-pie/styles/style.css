@@ -63,9 +63,14 @@ header {
   margin-top: 15px;
 }
 
+.recipe-image-container {
+  align-content: center;
+}
+
 h5 {
   font-size: 20px;
   font-weight: 50px;
+  margin-bottom: 20px;
 }
 
 .cooking-img {
@@ -73,8 +78,12 @@ h5 {
   margin-top: 20px;
 }
 
+.cooking-image-container {
+  align-content: center;
+}
+
 .ingredients ul li {
-  margin-top: 10x;
+  margin-top: 20x;
   line-height: 30px;
 }
 
